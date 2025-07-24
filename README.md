@@ -64,4 +64,4 @@ July 2025
 ## 🙋‍♂️ Author
 
 **Mamidipalle Lokesh**  
-BTech CSE (AI)
+BTech CSE (AI) | GPCET Kurnool
