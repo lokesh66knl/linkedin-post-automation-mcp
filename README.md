@@ -7,7 +7,7 @@ Perfect for students, builders, and job seekers to showcase their work easily on
 
 ## 📸 Project Demo Screenshot
 
-![LinkedIn MCP Demo](https://res.cloudinary.com/dty6sjbzu/i  mage/upload/v1753335038/mcp_megaworkshop_1_h5pygs.jpg)
+![LinkedIn MCP Demo](https://res.cloudinary.com/dty6sjbzu/image/upload/v1753336033/Screenshot_2025-07-24_111650_nsfteu.png)
 
 ---
 
@@ -59,6 +59,5 @@ July 2025
 ## 🙋‍♂️ Author
 
 **Mamidipalle Lokesh**  
-3rd Year CSE (AI) Student  
-G. Pullaiah College of Engineering and Technology
+
 
